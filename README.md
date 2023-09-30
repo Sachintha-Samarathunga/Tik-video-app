@@ -14,6 +14,14 @@ pnpm dev
 bun dev
 ```
 
+![01](https://github.com/Sachintha-Samarathunga/Tik-video-app/assets/98406068/f3d0056a-7fc9-4e2f-800c-29633320c8bf)
+![02](https://github.com/Sachintha-Samarathunga/Tik-video-app/assets/98406068/6b2bf75d-9606-4fe1-90c2-c56038cebb4d)
+![03](https://github.com/Sachintha-Samarathunga/Tik-video-app/assets/98406068/3d67369c-5b58-44f1-85d9-f13e19339816)
+![04](https://github.com/Sachintha-Samarathunga/Tik-video-app/assets/98406068/c1f1daf6-f55d-4e1d-9b88-0e8c232af2ba)
+![05](https://github.com/Sachintha-Samarathunga/Tik-video-app/assets/98406068/b79857b2-7b6f-4203-afdb-bece9b052691)
+![06](https://github.com/Sachintha-Samarathunga/Tik-video-app/assets/98406068/f4e2f152-48bd-40a4-bd44-6da1902f6e92)
+![07](https://github.com/Sachintha-Samarathunga/Tik-video-app/assets/98406068/bc2f1c0b-1941-4ccd-bc1f-f00786a93cff)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
